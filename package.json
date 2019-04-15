@@ -1,0 +1,19 @@
+{
+  "name": "swagger_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fastify": "^1.11.0",
+    "fastify-swagger": "^0.15.0",
+    "swagger": "^0.7.5",
+    "swagger-jsdoc": "^1.10.3",
+    "swagger-ui-express": "^4.0.2"
+  }
+}
